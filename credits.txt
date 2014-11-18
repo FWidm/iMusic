@@ -1,0 +1,10 @@
+Credits:
+--------------
+Star Background - adapted from: 
+	• http://www.syntaxwarriors.com/2012/xna-2d-infinite-scrolling-space-background/
+Particle Engine - adapted from:
+	• http://rbwhitaker.wikidot.com/2d-particle-engine-3
+Midi.Net Framework:
+	• https://code.google.com/p/midi-dot-net/
+NAudio:
+	• http://naudio.codeplex.com/
